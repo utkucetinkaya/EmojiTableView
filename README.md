@@ -1,6 +1,8 @@
 # EmojiTableView
 
+## About ##
 
+Added emoji names and descriptions are listed. Editing and swipe delete operation is done.
 
 ## Video ##
 
